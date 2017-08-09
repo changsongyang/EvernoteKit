@@ -1,0 +1,14 @@
+{
+    "extName": {
+        "message": "Evernote preview",
+        "description": ""
+    },
+    "extDescription": {
+        "message": "Evernote's preview plugin.",
+        "description": ""
+    },
+    "errMsg1": {
+        "message": "This plugin previews only the contents of the Evernote.",
+        "description": ""
+    }
+}

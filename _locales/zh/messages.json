@@ -1,0 +1,14 @@
+{
+    "extName": {
+        "message": "印象笔记·预览",
+        "description": ""
+    },
+    "extDescription": {
+        "message": "印象笔记扩展控件。",
+        "description": ""
+    },
+    "errMsg1": {
+        "message": "本插件只针对印象笔记网页的内容进行预览。",
+        "description": ""
+    }
+}
